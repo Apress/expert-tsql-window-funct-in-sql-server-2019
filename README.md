@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Expert T-SQL Window Functions in SQL Server 2019*](https://www.apress.com/9781484251966) by Kathi Kellenber, Clayton Groom, and Ed Pollack (Apress, 2019).
+This repository accompanies [*Expert T-SQL Window Functions in SQL Server 2019*](https://www.apress.com/9781484251966) by Kathi Kellenberger, Clayton Groom, and Ed Pollack (Apress, 2019).
 
 [comment]: #cover
 ![Cover image](9781484251966.jpg)
