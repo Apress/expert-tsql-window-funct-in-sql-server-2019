@@ -1,0 +1,4 @@
+You can download an updated copy
+of the database here: http://assets.red-gate.com/simple-talk/Gaps-and-Islands/BaseballStats2019.bak
+
+It's too large for github.
