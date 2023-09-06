@@ -1,13 +1,12 @@
 # Errata for *Expert T-SQL Window Functions in SQL Server 2019*
 
-On **page xx** [Summary of error]:
+On **page 184** [Summary of error]:
  
-Details of error here. Highlight key pieces in **bold**.
+In code example 10-6 should be
+ROWS BETWEEN **2** PRECEDING AND CURRENT ROW
 
-***
-
-On **page xx** [Summary of error]:
- 
-Details of error here. Highlight key pieces in **bold**.
+On **page 186** [Summary of error]:
+In code example 10-7 should be
+ROWS BETWEEN **2** PRECEDING AND CURRENT ROW
 
 ***
