@@ -1,4 +1,4 @@
-# Errata for *Build Your Own 2D Game Engine and Create Great Web Games*
+# Errata for *Expert T-SQL Window Functions in SQL Server 2019*
 
 On **page xx** [Summary of error]:
  
